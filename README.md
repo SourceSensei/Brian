@@ -5,19 +5,16 @@
 ## Installation and Usage
 
 ```
-Clone the Repository
 
-git clone https://github.com/your-username/brian.git
+Clone the repository using the command git clone <repository_url>
 
-Navigate to Brian Directory
+Create a virtual environment using the command python -m venv venv
 
-Change your directory to the Brian project folder:
+Activate the virtual environment using the command venv\Scripts\activate on Windows or source venv/bin/activate on Unix-based systems
 
-cd brian
+Install the dependencies listed in requirements.txt using the command pip install -r requirements.txt (Coming soon)
 
-Install Dependencies if missing any
-
-Run the bot by executing the following command:
+Run the bot by executing the appropriate script or command specified in the project's documentation or README file
 
 python main.py
 
