@@ -14,9 +14,7 @@ Activate the virtual environment using the command venv\Scripts\activate on Wind
 
 Install the dependencies listed in requirements.txt using the command pip install -r requirements.txt (Coming soon)
 
-Run the bot by executing the appropriate script or command specified in the project's documentation or README file
-
-python main.py
+Run the bot by executing python main.py
 
 ```
 
