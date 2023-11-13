@@ -12,7 +12,7 @@ Create a virtual environment using the command python -m venv venv
 
 Activate the virtual environment using the command venv\Scripts\activate on Windows or source venv/bin/activate on Unix-based systems
 
-Install the dependencies listed in requirements.txt using the command pip install -r requirements.txt (Coming soon)
+Install the dependencies listed in requirements.txt using the command pip install -r requirements.txt
 
 Run the bot by executing python main.py
 
